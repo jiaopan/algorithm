@@ -4,8 +4,8 @@ import com.jorpan.algorithm.module.ListNode;
 import com.jorpan.algorithm.utils.ListUtils;
 
 /**
- * 82. 删除排序链表中的重复元素 II
- * 给定一个已排序的链表的头 head ， 删除原始链表中所有重复数字的节点，只留下不同的数字 。返回 已排序的链表 。
+ * 82. 删除排序链表中的重复元素
+ * 给定一个已排序的链表的头head，删除原始链表中所有重复数字的节点，只留下不同的数字。返回已排序的链表。
  * <p>
  * 输入：head = [1,1,2,3,3,5]
  * 输出：[2,5]
