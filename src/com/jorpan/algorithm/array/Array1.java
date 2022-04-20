@@ -11,7 +11,6 @@ package com.jorpan.algorithm.array;
  * 不要使用额外的空间，你必须在 原地 修改输入数组 并在使用 O(1) 额外空间的条件下完成。
  */
 public class Array1 {
-
     public void test() {
         int[] a = {1, 1, 2, 2, 3, 4, 5, 6, 100, 100, 100};
         System.out.println(removeDuplicates(a));
