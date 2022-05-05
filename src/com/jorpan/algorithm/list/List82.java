@@ -1,4 +1,4 @@
-package com.jorpan.algorithm;
+package com.jorpan.algorithm.list;
 
 import com.jorpan.algorithm.module.ListNode;
 import com.jorpan.algorithm.utils.ListUtils;
