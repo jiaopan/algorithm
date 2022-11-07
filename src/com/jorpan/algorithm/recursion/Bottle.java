@@ -2,7 +2,7 @@ package com.jorpan.algorithm.recursion;
 
 public class Bottle {
     public void test() {
-        System.out.println(drink(5, 5));
+        System.out.println(drink(10, 10));
     }
 
     public int drink(int bottle, int cap) {
